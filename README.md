@@ -50,13 +50,13 @@ app/
 
    ```bash
    composer install
-   ```
+````
 
 3. **Create `.env` file**
 
    ```bash
    cp .env.example .env
-   ```
+````
 
 4. **Set your database configuration** in `.env`
 
@@ -64,13 +64,13 @@ app/
 
    ```bash
    php artisan key:generate
-   ```
+````
 
 6. **Run migrations**
 
    ```bash
    php artisan migrate
-   ```
+   ````
 
 7. **Start the server**
 
