@@ -44,7 +44,7 @@ app/
    ```bash
    git clone https://github.com/delmashajan/User-Management-App.git
    cd user-management-app
-````
+   ````
 
 2. **Install dependencies**
 
@@ -56,9 +56,9 @@ app/
 
    ```bash
    cp .env.example .env
-````
+   ````
 
-4. **Set your database configuration** in `.env`
+4. **Set your database configuration** in `.env` ````
 
 5. **Generate app key**
 
