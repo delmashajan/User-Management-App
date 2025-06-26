@@ -42,7 +42,7 @@ app/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/delmashajan/User-Management-App.git
    cd user-management-app
 ````
 
